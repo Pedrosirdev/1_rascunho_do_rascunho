@@ -1,0 +1,193 @@
+p {
+    color: blue;
+}
+            body {
+                font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            }
+
+        label {
+            display:block;
+            
+            margin-left: 10px;
+        
+        }
+        input[type=text] , textarea {
+                width: 400px;
+                
+                border-color: blueviolet;
+                padding: 10px;
+                resize: none;
+                
+        }
+        h2 {
+            margin-left: 10px;
+        }
+        .emal {
+            margin-left: 10px;
+            width: 410px;
+        }
+            .butaoo {
+                background-color: rgb(177, 125, 224)
+            
+
+            }
+            .butaoo:hover {
+                background-color:blueviolet;
+            }
+            .pass {
+                margin-left: 10px;
+            }
+                .check {
+                    margin-top: 10px;
+                    margin-bottom: 40px;
+                }
+
+                fieldset {
+                    margin-bottom: 20px;
+                    border-color: #f00;
+                    
+                    
+                }
+                legend {
+                    background-color: #f00;
+                    color: #fff;
+                    padding: 10px;
+                }
+
+                
+
+           
+               
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .qualquer {
+        color: black;
+        font-size:20px;
+        margin:20px;
+        font-weight: bold;
+        font-family: 'Permanent Marker', cursive;
+            }
+        ul {  font-weight: bold;
+            font-size: 20px;
+            
+
+    }
+    .listablusa {
+            color:red;
+            font-family: 'Permanent Marker' , cursive;
+            font-weight: bold;
+    }
+
+    ol {
+        color:blueviolet ;
+        font-size: 20px ;
+        font-weight: bold;
+    }
+    .h12 {
+        font-size: 40px;
+        font-weight:bold;
+    
+    }
+    .texto1negrito {
+        text-align: center;
+        font-size: 20px;
+    }
+
+.butao:hover {
+  color: aqua;
+}
+
+#texto {
+    color: red;
+    font-style: oblique;
+    background-color: rgb(45, 0, 100)
+}
+#texto {
+    width: 20%;
+    text-align:right;
+}
+
+.texto2{
+    color: seagreen;
+}
+    #violeta {
+color: rgb(138, 37, 138);
+        background-color:rgb(138, 37, 138);
+    }
+        button {
+        border: solid rgb(138, 37, 138);
+            }
+    p {
+        border-bottom: dashed #000;
+    }        
+    .otitulo {
+        border: solid #890045;
+        font-weight: bold;
+        padding-left: 600px; }
+    
+h1 {
+    padding-left: 600px;
+  
+}
+#violeta {
+    width: 100px;
+    height: auto;
+}
+h1 {
+    width: 300px;
+    height: 200px;
+}
+.violet {
+    color: violet;
+
+}
+.violet:hover{
+    color: black;
+    font-size: 30px;
+}
+.violet:visited {
+    color: #000;
+    font-size: 20px;
+}
+  table {
+      width: 400px;
+      text-align:center;
+      
+  }
+  td {
+      border: solid #890045;
+     
+  }
+  th {
+      background-color: #f00;
+  }
+  td:hover {
+      background-color: blueviolet;
+  }
+ table tbody {
+     background-color: cornflowerblue;
+
+ }
+.testefonte {
+    margin: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+    
+
